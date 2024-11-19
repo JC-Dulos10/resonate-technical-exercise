@@ -18,7 +18,7 @@ function App() {
   );
 
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div className="bg-[#B591D9] min-h-screen">
       <header className="bg-[#443659] text-white py-6 text-center">
         <h1 className="text-3xl font-bold">Contacts</h1>
         <input
@@ -29,7 +29,7 @@ function App() {
           className="mt-4 p-2 w-3/4 max-w-md rounded-md border border-[#443659] text-black"
         />
       </header>
-      <main className="p-6 bg-[#B591D9]">
+      <main className="p-6">
         <ContactList contacts={filteredContacts} />
       </main>
     </div>
