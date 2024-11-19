@@ -19,17 +19,17 @@ function App() {
 
   return (
     <div className="bg-gray-100 min-h-screen">
-      <header className="bg-blue-600 text-white py-6 text-center">
+      <header className="bg-[#443659] text-white py-6 text-center">
         <h1 className="text-3xl font-bold">Contacts</h1>
         <input
           type="text"
           placeholder="Search contacts..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="mt-4 p-2 w-3/4 max-w-md rounded-md border border-gray-300"
+          className="mt-4 p-2 w-3/4 max-w-md rounded-md border border-[#443659] text-black"
         />
       </header>
-      <main className="p-6">
+      <main className="p-6 bg-[#B591D9]">
         <ContactList contacts={filteredContacts} />
       </main>
     </div>
