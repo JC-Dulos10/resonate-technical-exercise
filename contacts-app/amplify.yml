@@ -1,6 +1,6 @@
 version: 1
 applications:
-  - appRoot: contacts-app  # Point to the React app folder
+  - appRoot: contacts-app  # Specifies the app folder
     frontend:
       phases:
         preBuild:
@@ -10,9 +10,9 @@ applications:
           commands:
             - npm run build
       artifacts:
-        baseDirectory: contacts-app/build  # Ensure the correct output directory
+        baseDirectory: build  # This must match the build output folder
         files:
           - '**/*'
       cache:
         paths:
-          - contacts-app/node_modules/**/*  # Cache node_modules for faster builds
+          - node_modules/**/*  # Caches node_modules for faster builds
