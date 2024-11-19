@@ -19,15 +19,6 @@ Welcome to the **Responsive Contacts Application**! This project is a React-base
 
 ---
 
-## 🚀 Getting Started  
-
-Follow these steps to set up and run the project locally.  
-
-### Prerequisites  
-Ensure you have the following installed:  
-- [Node.js](https://nodejs.org/) (v14 or higher)  
-- npm or yarn
-
 ### 📬 Contact
 For questions or feedback, feel free to reach out:
 - GitHub: JC-Dulos10
