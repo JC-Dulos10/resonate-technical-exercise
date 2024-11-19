@@ -39,13 +39,11 @@ cd resonate-technical-exercise/contacts-app
 ### 2️⃣ Install Dependencies
 - Run the following command to install the required dependencies:
 ```bash
-Copy code
 npm install  
 ```
 ### 3️⃣ Start the Development Server
 - Start the app in development mode by running:
 ```bash
-Copy code
 npm start 
 ``` 
 - 🌐 Open your browser and navigate to http://localhost:3000.
@@ -54,7 +52,6 @@ npm start
 ### 4️⃣ Build for Production
 - Create a production-ready build with:
 ```bash
-Copy code
 npm run build 
 ``` 
 - The optimized app will be available in the build directory.
@@ -62,7 +59,6 @@ npm run build
 ### 5️⃣ Serve the Production Build (Optional)
 - Test the production build locally using a static file server:
 ```bash
-Copy code
 npm install -g serve  
 serve -s build  
 ```
