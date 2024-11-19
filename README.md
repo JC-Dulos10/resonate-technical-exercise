@@ -1,27 +1,34 @@
-📇 Responsive Contacts Application
-Welcome to the Responsive Contacts Application! This project is a React-based app that lets users browse and search through contacts fetched from the JSONPlaceholder API, with a sleek, responsive UI styled using Tailwind CSS.
+# 📇 Responsive Contacts Application  
 
-🎯 Features
-✨ Tailwind-Powered Design: Modern, responsive, and utility-first styling.
-✨ Live Search: Quickly filter through contacts using the search bar.
-✨ Contact Details: Displays name, email, phone, and website information.
-✨ Clean UI: Minimalist yet visually appealing interface.
+Welcome to the **Responsive Contacts Application**! This project is a React-based app that lets users browse and search through contacts fetched from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users), with a sleek, responsive UI styled using **Tailwind CSS**.  
 
-🛠️ Tech Stack
-Frontend: React.js
-Styling: Tailwind CSS
-Data Fetching: Axios
-🚀 Getting Started
-Follow these steps to set up and run the project locally.
+---
 
-Prerequisites
-Ensure you have the following installed:
+## 🎯 Features  
+✨ **Tailwind-Powered Design**: Modern, responsive, and utility-first styling.  
+✨ **Live Search**: Quickly filter through contacts using the search bar.  
+✨ **Contact Details**: Displays name, email, phone, and website information.  
+✨ **Clean UI**: Minimalist yet visually appealing interface.  
 
-Node.js (v14 or higher)
-npm or yarn
+---
 
-📬 Contact
+## 🛠️ Tech Stack  
+- **Frontend**: React.js  
+- **Styling**: Tailwind CSS  
+- **Data Fetching**: Axios  
+
+---
+
+## 🚀 Getting Started  
+
+Follow these steps to set up and run the project locally.  
+
+### Prerequisites  
+Ensure you have the following installed:  
+- [Node.js](https://nodejs.org/) (v14 or higher)  
+- npm or yarn
+
+### 📬 Contact
 For questions or feedback, feel free to reach out:
-
-GitHub: JC-Dulos10
-Email: carlosdulos@gmail.com
+- GitHub: JC-Dulos10
+- Email: carlosdulos@gmail.com
